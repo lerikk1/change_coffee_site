@@ -1,0 +1,141 @@
+body {
+	margin: 0;
+	font-family: "Open Sans", sans-serif;
+}
+
+.container {
+	margin: 0px 65px;
+}
+
+.header {
+	background-image: url(bg.jpg);
+	height: 130vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	
+}
+
+.header-line{
+	padding-top: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.nav-item {
+	color:#6B4531;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 20px;
+
+	margin-right: 120px;
+
+	transition: color 0.3s linear;
+}
+.nav-item:hover {
+	color:black;
+}
+.button {
+	color:#6B4531;
+	text-decoration: none;
+	padding: 15px 25px;
+	font-size: 18px;
+	font-weight: 700;
+
+	border: 2px solid #6B4531;
+	border-radius: 30px;
+
+	transition: color 0.2s linear;
+
+}
+.button:hover {
+	color:black;
+}
+
+.text{
+	color: #442B1F;
+	font-size: 50px;
+	font-weight: 700;
+	margin: 230px 50px;
+}
+.sp{
+	font-size: 32px;
+	font-weight: 500;
+	font-style: italic;
+}
+.coffeemap{
+	background-image: url(map.jpg);
+	height: 130vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.map-title{
+	color: #fff;
+	font-size: 45px;
+	font-weight: 500;
+	text-align: center;
+	padding-top: 20px;
+}
+.ourteam{
+	background-image: url(ourteam.jpg);
+	height: 130vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.team-title{
+	color: #42331E;
+	font-size: 45px;
+	font-weight: 700;
+	text-align: left;
+	padding-top: 120px;
+	padding-left: 100px;
+}
+.history{
+	color:#000000;
+	font-size: 20px;
+	font-weight: 400;
+	width: 400px;
+	text-align: left;
+	padding-left: 900px;
+	padding-top: 100px;
+}
+.TG-bot{
+	background-image: url(tgbot.jpg);
+	height: 130vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.bot-title{
+	color: #fff;
+	font-size: 45px;
+	font-weight: 700;
+	text-align: left;
+	padding-top: 120px;
+	padding-left: 100px;
+}
+.text-item{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 600;
+	padding-left: 100px;
+	display: flex;
+	
+	margin: 90px;
+}
+.footer{
+	background-image: url(footer.jpg);
+	height: 130vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.footer-title{
+	color: #000000;
+	font-size: 45px;
+	font-weight: 700;
+	text-align: center;
+}
