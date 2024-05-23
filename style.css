@@ -124,7 +124,7 @@ body {
 	padding-left: 100px;
 	display: flex;
 	
-	margin: 90px;
+	margin: 82px;
 }
 .footer{
 	background-image: url(footer.jpg);
@@ -134,8 +134,61 @@ body {
 	background-position: center center;
 }
 .footer-title{
-	color: #000000;
-	font-size: 45px;
+	color: #442B1F;
+	font-size: 55px;
 	font-weight: 700;
 	text-align: center;
+}
+
+.adress {
+	margin-left: 800px;
+	margin-top: 100px;
+	display: inline-block; 
+	border: 5px solid green; 
+	border-radius: 15px; 
+	box-sizing: border-box;
+	position: absolute;
+}
+.adress img {
+	display: block;
+	width: 100%; 
+	height: auto; 
+	border-radius: 10px; 
+}
+.pin{
+	padding-top: 200px;
+	display: flex;
+	
+}
+.pin-title{
+	font-size: 20px;
+	font-weight: 400;
+	margin-top: 100px;
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.number{
+	position: relative;
+	top:30px;
+	left:100px;
+}
+.VK{
+	position: relative;
+	top:30px;
+	left:250px;
+}
+.email{
+	position: relative;
+	top:70px;
+	left:400px;
+}
+.footer-desk{
+	color: black;
+	font-size: 25px;
+	font-weight: 600;
+	position: relative;
+	left:600px;
 }
