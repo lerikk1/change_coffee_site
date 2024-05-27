@@ -78,6 +78,25 @@ body {
 	text-align: center;
 	padding-top: 20px;
 }
+
+
+.menu{
+	background-image: url(menu.jpg);
+	height: 130vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.menu.title{
+	color: #42331E;
+	font-size: 45px;
+	font-weight: 700;
+	text-align: left;
+	padding-top: 120px;
+	padding-left: 100px;
+}
+
+
 .ourteam{
 	background-image: url(ourteam.jpg);
 	height: 130vh;
