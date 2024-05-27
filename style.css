@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-	background-image: url(bg.jpg);
+	background-image: url(./images/bg.jpg);
 	height: 130vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -65,7 +65,7 @@ body {
 	font-style: italic;
 }
 .coffeemap{
-	background-image: url(map.jpg);
+	background-image: url(./images/map.jpg);
 	height: 130vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -79,7 +79,7 @@ body {
 	padding-top: 20px;
 }
 .ourteam{
-	background-image: url(ourteam.jpg);
+	background-image: url(./images/ourteam.jpg);
 	height: 130vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -103,7 +103,7 @@ body {
 	padding-top: 100px;
 }
 .TG-bot{
-	background-image: url(tgbot.jpg);
+	background-image: url(./images/tgbot.jpg);
 	height: 130vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -127,7 +127,7 @@ body {
 	margin: 82px;
 }
 .footer{
-	background-image: url(footer.jpg);
+	background-image: url(./images/footer.jpg);
 	height: 130vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -190,5 +190,5 @@ body {
 	font-size: 25px;
 	font-weight: 600;
 	position: relative;
-	left:600px;
+	left:800px;
 }
