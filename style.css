@@ -87,13 +87,12 @@ body {
 	background-size: cover;
 	background-position: center center;
 }
-.menu.title{
+.menu-title{
 	color: #42331E;
 	font-size: 45px;
-	font-weight: 700;
-	text-align: left;
-	padding-top: 120px;
-	padding-left: 100px;
+	font-weight: 600;
+	text-align: center;
+	padding-top: 30px;
 }
 
 
