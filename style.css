@@ -82,6 +82,7 @@
 body {
 	margin: 0;
 	font-family: "Gotham Pro";
+	overflow-x: hidden;
 }
 
 .container {
